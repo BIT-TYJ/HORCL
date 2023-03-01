@@ -1,4 +1,4 @@
-# EO-RCL : Robust Collaborative Localization in Extreme Outliers
+# HORCL : Robust Multi-robot Collaborative Localization in High Outlier ratio Scenes
 
 ## Overview
 This is a c++ implementation based on [strasdat/Sophus](https://github.com/strasdat/Sophus). The solvers' cpp files are in the **test/ceres/** directory.
