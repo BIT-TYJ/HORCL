@@ -28,3 +28,6 @@ $ ./scripts/run_robust_pcl_reconstruction_example_cauchy_two_EM.sh
 ```sh
 $ sudo apt-get install ccache
 ```
+
+## Acknowledge
+Thanks for the open source code:  [RobustPCLReconstruction](https://github.com/ziquan111/RobustPCLReconstruction)!
